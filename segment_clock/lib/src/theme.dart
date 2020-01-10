@@ -1,4 +1,3 @@
-
 part of segment_clock;
 
 enum _Element { background, segmentOn, segmentOff }

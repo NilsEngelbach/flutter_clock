@@ -19,6 +19,10 @@ I wanted to create a clock face with this "retro technology" touch to give it a 
 
 Contrast Ratio: [5.3:1](https://webaim.org/resources/contrastchecker/?fcolor=64FFDA&bcolor=00695C)
 
+## In Action
+
+<img src='segment_clock/segment_clock.gif' width='350'>
+
 ## How to run
 
 ```
