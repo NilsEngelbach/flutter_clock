@@ -1,15 +1,21 @@
-# Flutter Clock
+# Digital 7 Segment Clock
 
-Welcome to Flutter Clock!
+This clock was created for submission to the [flutter clock challenge](https://flutter.dev/clock).
+It has a light theme and a dark theme.
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+<img src='digital.gif' width='350'>
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+<img src='dark.png' width='350'>
 
-Example [Analog Clock](analog_clock)
+<img src='light.png' width='350'>
 
-<img src='analog_clock/analog.gif' width='350'>
 
-Example [Digital Clock](digital_clock)
+## How to run
 
-<img src='digital_clock/digital.gif' width='350'>
+```
+flutter channel stable
+flutter upgrade
+cd segment_clock
+flutter create .
+flutter run (on Android or iOS in landscape)
+```
