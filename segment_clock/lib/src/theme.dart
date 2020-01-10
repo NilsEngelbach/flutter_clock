@@ -4,7 +4,7 @@ part of segment_clock;
 enum _Element { background, segmentOn, segmentOff }
 
 final Map<_Element, Color> _lightTheme = {
-  _Element.background: Colors.teal,
+  _Element.background: Colors.teal.shade800,
   _Element.segmentOff: Color(0x1F004D40),
   _Element.segmentOn: Colors.tealAccent
 };
